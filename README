@@ -1,0 +1,2 @@
+A simple WordPress plugin to calculate and output a price for square inch of volume in an STL file. Doesn't work without some
+HTTP code to send the STL file and receive the price. Code has to be adjusted to change the price per square inch. 
